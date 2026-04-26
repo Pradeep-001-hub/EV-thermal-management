@@ -1,0 +1,23 @@
+# MATLAB Specific Ignored Files
+
+# Temporary files
+*.asv
+*.autosave
+*.bak
+*.old
+
+# IDE and editor files
+*.swp
+*.swo
+*.tmp
+*.log
+*.DS_Store
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+
+# Results folders
+results/
+output/
+kernels/
