@@ -1,12 +1,12 @@
 
 
-## 📌 Project Title
+Project Title
 
 **Integrated Thermal Management System for Electric Vehicles: A Holistic Approach Towards AI-Driven, Full-System Thermal Optimization for Next-Generation Mobility**
 
 ---
 
-## 📄 Abstract
+Abstract
 
 Electric Vehicles (EVs) represent a critical frontier in sustainable transportation; however, their widespread adoption continues to be constrained by thermal management challenges affecting battery packs, electric motors, power electronics, and cabin climate systems. Effective thermal regulation is essential not only for performance and efficiency but also for safety, battery longevity, charging capability, and passenger comfort.
 
