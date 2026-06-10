@@ -1,6 +1,7 @@
 
 TITLE
 "Integrated Thermal Management System for Electric Vehicles: A Holistic Approach Towards AI-Driven, Full-System Thermal Optimization for Next-Generation Mobility"
+-----
  ABSTRACT
 Electric Vehicles (EVs) represent a critical frontier in sustainable transportation, yet their widespread adoption is significantly constrained by thermal challenges spanning battery packs, electric motors, power electronics, and cabin climate systems. This research presents a comprehensive investigation into the full-system integration of EV Thermal Management Systems (TMS), unifying Battery Thermal Management (BTMS), Motor & Power Electronics Cooling, and Cabin HVAC with Heat Pump Systems into a single intelligent architecture.
 The global EV thermal management market, valued at approximately $27.96 billion in 2025, is projected to reach $78.67 billion by 2034 at a CAGR of 16.1%, underscoring the urgency and commercial relevance of advanced thermal solutions. This project proposes and analyzes novel methodologies including AI/ML-based predictive thermal control, immersion cooling with dielectric nanofluids, phase change material (PCM) composites, silicon carbide (SiC) power electronics thermal co-design, and integrated thermal circuit architectures that consolidate multiple subsystems.
