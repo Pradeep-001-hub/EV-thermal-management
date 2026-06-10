@@ -31,15 +31,18 @@ Simulation, modeling, and validation are performed using:
 
 to ensure cross-platform reproducibility and future deployment feasibility.
 
-The outcomes of this research aim to contribute toward the development of intelligent thermal management solutions for future electric vehicles while also providing insights applicable to advanced aerospace, space-adjacent mobility, and high-reliability thermal control systems of interest to organizations such as ISRO.
+The outcomes of this research aim to contribute toward the development of intelligent thermal management solutions for future electric vehicles while also providing insights applicable to advanced aerospace, space-adjacent mobility, and high-reliability thermal control systems of interest to organizations
 
 ---
+### Thermal Requirements of Major EV Subsystems
 
-## Keywords
-
-Electric Vehicles (EV), Thermal Management System (TMS), Battery Thermal Management System (BTMS), Artificial Intelligence, Machine Learning, Predictive Control, Heat Pump Systems, Silicon Carbide Electronics, Phase Change Materials, Dielectric Cooling, Embedded Systems, Energy Efficiency, Sustainable Mobility.
-
----
+| Subsystem | Recommended Operating Temperature | Potential Consequences of Excessive Temperature |
+|------------|----------------------------------|------------------------------------------------|
+| Li-ion Battery Pack | 15°C – 40°C | Thermal runaway, accelerated aging, capacity loss |
+| Electric Motor | 80°C – 120°C (Windings) | Insulation degradation, magnetic performance loss |
+| Power Electronics (IGBT/SiC Modules) | < 150°C Junction Temperature | Semiconductor failure, efficiency reduction |
+| Cabin HVAC System | 18°C – 26°C | Reduced passenger comfort, increased energy consumption |
+------
 
 ## Research Highlights
 
