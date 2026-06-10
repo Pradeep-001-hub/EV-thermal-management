@@ -279,7 +279,7 @@ The research presented in this project aligns with these emerging trends and foc
 
 ---
 
-## Key Takeaways
+## so,
 
 - Thermal management is becoming a vehicle-wide optimization problem.
 - AI is transitioning thermal control from reactive to predictive operation.
