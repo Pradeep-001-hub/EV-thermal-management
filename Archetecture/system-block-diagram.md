@@ -1,0 +1,44 @@
+```text══════════════════════════════════════════════════════════════════════╗
+║           INTEGRATED EV THERMAL MANAGEMENT SYSTEM (iTMS)            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ┌─────────────┐     ┌─────────────┐     ┌─────────────────────┐   ║
+║   │   BATTERY   │     │   MOTOR &   │     │   CABIN HVAC &      │   ║
+║   │    PACK     │     │   POWER     │     │   HEAT PUMP         │   ║
+║   │   (BTMS)    │     │ ELECTRONICS │     │   SYSTEM            │   ║
+║   └──────┬──────┘     └──────┬──────┘     └──────────┬──────────┘   ║
+║          │                   │                        │              ║
+║          ▼                   ▼                        ▼              ║
+║   ┌─────────────────────────────────────────────────────────────┐   ║
+║   │              INTEGRATED THERMAL BUS (ITB)                   │   ║
+║   │   [Reconfigurable Fluid Network + Smart Valve Array]        │   ║
+║   └──────────────────────────┬──────────────────────────────────┘   ║
+║                               │                                      ║
+║          ┌────────────────────┼────────────────────┐                 ║
+║          ▼                    ▼                     ▼                ║
+║   ┌─────────────┐    ┌──────────────┐    ┌──────────────────┐       ║
+║   │   CHILLER   │    │  HEAT PUMP   │    │  RADIATOR /      │       ║
+║   │   MODULE    │    │  COMPRESSOR  │    │  HEAT EXCHANGER  │       ║
+║   └─────────────┘    └──────────────┘    └──────────────────┘       ║
+║                                                                      ║
+║   ┌──────────────────────────────────────────────────────────────┐  ║
+║   │         AI SUPERVISORY THERMAL CONTROLLER (ASTC)             │  ║
+║   │   [LSTM Predictor + RL Optimizer + Embedded C++ Runtime]     │  ║
+║   └──────────────────────────────────────────────────────────────┘  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+Battery Thermal Management Subsystem (BTMS)
+Target Performance
+Parameter
+Target Value
+Maximum Cell Temperature
+40°C
+Temperature Non-Uniformity
+±2°C
+Fast Charge Cooling Capacity
+85 kW
+Cold Climate Pre-Heat Target
+15°C Minimum
+
+
